@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lenguajes en extincion</string>
+    <string name="category_phrases">Frases</string>
+    <string name="category_colors">Colores</string>
+    <string name="category_numbers">Numeros</string>
+    <string name="category_family">Miembros de la familia</string>
+</resources>
